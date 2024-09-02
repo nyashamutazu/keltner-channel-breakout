@@ -1,0 +1,9 @@
+pillow==10.3.0
+pandas==2.2.2
+notebook==7.1.2
+tqdm==4.66.2
+TA-Lib==0.4.28
+numpy==1.26.4
+openpyxl==3.1.5
+jupyter==1.0.0
+pandas-ta==0.3.14b0
