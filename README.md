@@ -1,4 +1,4 @@
-# Keltner Channel Breakout Strategy Backtesting
+# Keltner Channel Breakout Strategy Backtesting - Free Trading Strategy
 
 This repository contains the implementation of a Keltner Channel Breakout Strategy with enhanced features for financial backtesting. The strategy is tested on historical market data using the `backtesting.py` library, and the results are analyzed for different combinations of parameters. The script also utilizes multiprocessing to speed up the backtesting process by running multiple configurations in parallel.
 
